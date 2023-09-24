@@ -1,0 +1,7 @@
+{
+  "name": "simpleStat 1.5",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
